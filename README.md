@@ -13,5 +13,5 @@ Something about me:-
 - 💬 Ask me about....basic OOP
 - 📫 How to reach me: ranjanrohit812@gmail.com
 - ⚡ Fun fact: There are 698 programming launguages in world.🤯
-- 🎇 Linkedin:- https://www.linkedin.com/in/rohit-ranjan-a9560811a/
+- 🎇 Linkedin:- https://www.linkedin.com/in/rohitranjan2020/
 -->
