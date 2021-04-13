@@ -16,8 +16,8 @@ Something about me:-
 -->
 
 <!-----Top Languages------>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-RA-2020&theme=cobalt" /> <!-----GitHub Stats------>![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohit-RA-2020&show_icons=true&theme=radical)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-RA-2020&theme=cobalt" />
+![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohit-RA-2020&show_icons=true&theme=radical)
 
 
 
