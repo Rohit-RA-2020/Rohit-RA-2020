@@ -17,9 +17,9 @@ Something about me:-
 
 <!-----Top Languages------>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-RA-2020&theme=cobalt" />
+
+<!-----GITHUB Stats------>
 ![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohit-RA-2020&show_icons=true&theme=radical)
-
-
 
 <!-----Github Streak----->
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ROHIT-RA-2020&theme=radical&hide_border=true&stroke=DD2727)](https://git.io/streak-stats)
