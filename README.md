@@ -15,6 +15,8 @@ Something about me:-
 - 🎇 Linkedin:- https://www.linkedin.com/in/rohitranjan2020/
 -->
 
+![](https://komarev.com/ghpvc/?username=rohit-ra-2020)
+
 <!-----Top Languages------>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-RA-2020&theme=cobalt" />
 
