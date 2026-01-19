@@ -24,6 +24,6 @@ Something about me:-
 ![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohit-RA-2020&show_icons=true&theme=radical)
 
 <!-----Github Streak----->
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ROHIT-RA-2020&theme=radical&hide_border=true&stroke=DD2727)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rohit-ra-2020&theme=highcontrast)](https://git.io/streak-stats)
 
 [![@rohitranjan20's Holopin board](https://holopin.me/rohitranjan20)](https://holopin.io/@rohitranjan20)
